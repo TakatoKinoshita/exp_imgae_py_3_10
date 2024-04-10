@@ -1,0 +1,6 @@
+{
+    "image": "your-name/your-image:tag",
+    "remoteUser": "exp",
+    "updateRemoteUserUID": true,
+    "workspaceFolder": "/workspace"
+}
