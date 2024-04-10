@@ -1,7 +1,7 @@
 # Settings
 ARG USERNAME="exp"
 ARG USER_UID="1000"
-ARG USER_GID="${USER_UID}"
+ARG USER_GID="1000"
 ARG WORK_DIR="/workspace"
 
 # Set base image
