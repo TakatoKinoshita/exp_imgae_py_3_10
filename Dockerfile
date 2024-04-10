@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/devcontainers/python:3.10-bullseye
 
 # Settings
 ARG USERNAME=exp
-ARG USER_UID=1000
+ARG USER_UID=1234
 ARG USER_GID=$USER_UID
 ARG WORK_DIR=/workspace
 
