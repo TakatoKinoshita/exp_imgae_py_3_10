@@ -5,7 +5,7 @@ on:
     types: [published]
 
 env:
-  REPO_NAME: your-repo-name
+  REPO_NAME: exp_image_py_3_10
 
 jobs:
   push_to_registry:
