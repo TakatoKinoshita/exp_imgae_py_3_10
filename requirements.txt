@@ -1,0 +1,14 @@
+# for core codes
+numpy
+scipy
+scikit-learn
+networkx
+cvxpy
+
+# for experiments
+pandas
+ray[tune]
+
+# for plotting
+matplotlib
+seaborn
